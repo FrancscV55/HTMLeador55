@@ -1,22 +1,18 @@
-```md
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=700&color=00FF88&center=true&vCenter=true&width=800&height=55&lines=FRANCISCO+VÁSQUEZ" />
-
-### `Student · Developer · Creative Thinker`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=900&color=00FF88&center=true&vCenter=true&width=800&height=55&lines=FRANCISCO+VÁSQUEZ" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=500&color=00D4FF&center=true&vCenter=true&width=800&height=45&lines=Always+learning+something+new;Turning+ideas+into+projects;Creating+something+better+every+day" />
-
-</div>
+### Student · Developer · Creative Thinker
 
 <br>
 
-<!-- NEON PATH -->
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=700&color=00D4FF&center=true&vCenter=true&width=800&height=45&lines=Always+learning+something+new;Turning+ideas+into+projects;Creating+something+better+every+day" />
 
-`━━━╮` `╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮` `╭━━━`
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=00FF88" />
 
 </div>
 
@@ -34,16 +30,15 @@ I enjoy creating experiences where **technology, creativity, and design** come t
 
 <br>
 
-### `Keep learning. Keep creating. Keep improving.`
+**Keep learning. Keep creating. Keep improving.**
 
 </div>
 
 <br>
 
-<!-- FLASH BREAK -->
 <div align="center">
 
-`━━━━━━ ◈ ━━━━━━━━━━━━━━━━━━━━━━━ ◈ ━━━━━━`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=00D4FF" />
 
 </div>
 
@@ -59,43 +54,43 @@ I enjoy creating experiences where **technology, creativity, and design** come t
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="62"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="64"/>
 <br>
 <b>Python</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="62"/>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="64"/>
 <br>
 <b>HTML</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=css&theme=dark" width="62"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="64"/>
 <br>
 <b>CSS</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="62"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="64"/>
 <br>
 <b>JavaScript</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="62"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="64"/>
 <br>
 <b>GitHub</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="62"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="64"/>
 <br>
 <b>VS Code</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=canva&theme=dark" width="62"/>
+<img src="https://skillicons.dev/icons?i=canva&theme=dark" width="64"/>
 <br>
 <b>Canva</b>
 </td>
@@ -107,10 +102,9 @@ I enjoy creating experiences where **technology, creativity, and design** come t
 
 <br>
 
-<!-- NEON PATH -->
 <div align="center">
 
-`╰━━━╮` `━━━━━━━━━━━━━━━━━━━━━━` `╭━━━╯`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=7C3AED" />
 
 </div>
 
@@ -118,9 +112,9 @@ I enjoy creating experiences where **technology, creativity, and design** come t
 
 <div align="center">
 
-## ⚡ HEALTHBOOST
+## HEALTHBOOST
 
-### `Digital Platform · Health · Technology · Personalization`
+### Digital Platform · Health · Technology · Personalization
 
 <br>
 
@@ -142,8 +136,7 @@ A digital platform focused on:
 
 <br><br>
 
-The goal is to make taking care of your health
-**simpler, more personal, and more sustainable.**
+The goal is to make taking care of your health **simpler, more personal, and more sustainable.**
 
 </td>
 </tr>
@@ -159,10 +152,9 @@ The goal is to make taking care of your health
 
 <br>
 
-<!-- FLASH BREAK -->
 <div align="center">
 
-`╺━━━━━━━━ ◇ ━━━━━━━━╸`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=00FF88" />
 
 </div>
 
@@ -174,24 +166,23 @@ The goal is to make taking care of your health
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FrancscV55&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF88&icon_color=00D4FF&text_color=E5E7EB&count_private=true&include_all_commits=true&rank_icon=github" width="75%" />
+<img src="https://github-readme-stats.vercel.app/api?username=FrancscV55&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF88&icon_color=00D4FF&text_color=E5E7EB&count_private=true&include_all_commits=true&rank_icon=github" width="78%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancscV55&hide_border=true&background=0D0D0D&ring=7C3AED&fire=00D4FF&currStreakLabel=00FF88&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="75%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancscV55&hide_border=true&background=0D0D0D&ring=7C3AED&fire=00D4FF&currStreakLabel=00FF88&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="78%" />
 
 <br><br>
 
-### `Code · Learn · Build · Repeat`
+### Code · Learn · Build · Repeat
 
 </div>
 
 <br>
 
-<!-- NEON PATH -->
 <div align="center">
 
-`━━╮` `━━━━━━━━━━━━━━━━━━━━━━━━━━━━` `╭━━`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=00D4FF" />
 
 </div>
 
@@ -206,19 +197,23 @@ The goal is to make taking care of your health
 <table>
 <tr>
 
-<td width="45%" align="center">
+<td align="center" width="45%">
 
 ### PROJECT
 
-`Coming soon`
+<br>
+
+Coming soon
 
 </td>
 
-<td width="45%" align="center">
+<td align="center" width="45%">
 
 ### PROJECT
 
-`Coming soon`
+<br>
+
+Coming soon
 
 </td>
 
@@ -229,10 +224,9 @@ The goal is to make taking care of your health
 
 <br>
 
-<!-- FLASH BREAK -->
 <div align="center">
 
-`━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=7C3AED" />
 
 </div>
 
@@ -250,7 +244,7 @@ The goal is to make taking care of your health
 <td align="center" width="190">
 
 <a href="https://github.com/FrancscV55">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="68"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="72"/>
 <br><br>
 <b>GitHub</b>
 </a>
@@ -260,7 +254,7 @@ The goal is to make taking care of your health
 <td align="center" width="190">
 
 <a href="https://instagram.com/TU_INSTAGRAM">
-<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="68"/>
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="72"/>
 <br><br>
 <b>Instagram</b>
 </a>
@@ -270,7 +264,7 @@ The goal is to make taking care of your health
 <td align="center" width="190">
 
 <a href="https://linkedin.com/in/TU_LINKEDIN">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="68"/>
+<img src="https://img.icons8.com/color/96/linkedin.png" width="72"/>
 <br><br>
 <b>LinkedIn</b>
 </a>
@@ -280,7 +274,7 @@ The goal is to make taking care of your health
 <td align="center" width="190">
 
 <a href="mailto:TU_EMAIL">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="68"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="72"/>
 <br><br>
 <b>Email</b>
 </a>
@@ -292,7 +286,7 @@ The goal is to make taking care of your health
 
 <br>
 
-`Keep learning. Keep creating.`
+**Keep learning. Keep creating.**
 
 </div>
 
@@ -300,9 +294,6 @@ The goal is to make taking care of your health
 
 <div align="center">
 
-`╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&section=footer&color=00FF88" />
 
 </div>
-
-
-```

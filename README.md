@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,35:3B0764,65:7E22CE,100:C026D3&height=8&section=header&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,25:C026D3,50:4F46E5,75:DB2777,100:7C3AED&height=10&section=header&animation=twinkling"/>
 
 <br><br>
 
@@ -14,15 +14,17 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C026D3,35:7E22CE,65:3B0764,100:0D0D0D&height=3&section=header&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C026D3,25:7C3AED,50:4F46E5,75:DB2777,100:C026D3&height=4&section=header&animation=twinkling"/>
 
 </div>
 
 <br>
 
+<div align="center">
+
 ## ABOUT ME
 
-<div align="center">
+<br>
 
 <table>
 <tr>
@@ -30,28 +32,30 @@
 
 I am passionate about technology, programming, and creating new things.
 
-<br>
+<br><br>
 
 I am always learning something new and exploring different ways to turn ideas into projects that are **useful, creative, and professional**.
 
-<br>
+<br><br>
 
 I enjoy creating experiences where **technology, creativity, and design** come together.
+
+<br><br>
+
+### *Keep learning. Keep creating. Keep improving.*
 
 </td>
 </tr>
 </table>
-
-<br>
-
-### *Keep learning. Keep creating. Keep improving.*
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C026D3,50:7E22CE,100:3B0764&height=3&section=header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DB2777,20:C026D3,45:7C3AED,70:4F46E5,100:DB2777&height=4&section=header&animation=twinkling"/>
+
 </div>
 
 <br>
@@ -60,20 +64,68 @@ I enjoy creating experiences where **technology, creativity, and design** come t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,canva&theme=dark&perline=8" />
+<table>
+<tr>
 
-<br><br>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/>
+<br>
+<sub><b>Python</b></sub>
+</td>
 
-<sub>
-Python&nbsp;&nbsp; · &nbsp;&nbsp;HTML&nbsp;&nbsp; · &nbsp;&nbsp;CSS&nbsp;&nbsp; · &nbsp;&nbsp;JavaScript&nbsp;&nbsp; · &nbsp;&nbsp;Git&nbsp;&nbsp; · &nbsp;&nbsp;GitHub&nbsp;&nbsp; · &nbsp;&nbsp;VS Code&nbsp;&nbsp; · &nbsp;&nbsp;Canva
-</sub>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/>
+<br>
+<sub><b>HTML</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/>
+<br>
+<sub><b>CSS</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/>
+<br>
+<sub><b>JavaScript</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/>
+<br>
+<sub><b>Git</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/>
+<br>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/>
+<br>
+<sub><b>VS Code</b></sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=canva&theme=dark" width="48"/>
+<br>
+<sub><b>Canva</b></sub>
+</td>
+
+</tr>
+</table>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B0764,50:7E22CE,100:C026D3&height=3&section=header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,25:7C3AED,50:C026D3,75:DB2777,100:4F46E5&height=4&section=header&animation=twinkling"/>
+
 </div>
 
 <br>
@@ -92,7 +144,7 @@ Python&nbsp;&nbsp; · &nbsp;&nbsp;HTML&nbsp;&nbsp; · &nbsp;&nbsp;CSS&nbsp;&nbsp
 <tr>
 <td width="80%" align="center">
 
-**HealthBoost** is a digital platform created around one simple idea:
+**HealthBoost** was created from one simple idea:
 
 <br>
 
@@ -100,15 +152,13 @@ Python&nbsp;&nbsp; · &nbsp;&nbsp;HTML&nbsp;&nbsp; · &nbsp;&nbsp;CSS&nbsp;&nbsp
 
 <br>
 
-The project focuses on improving three important areas:
+A digital platform focused on three important areas:
 
 <br>
 
-**Emotional Well-being**
-**Physical Health**
-**Mental Well-being**
+**Emotional Well-being**   ·   **Physical Health**   ·   **Mental Well-being**
 
-<br>
+<br><br>
 
 The goal is to create an experience that makes taking care of your health **simpler, more personal, and more sustainable.**
 
@@ -119,7 +169,7 @@ The goal is to create an experience that makes taking care of your health **simp
 <br>
 
 <a href="https://github.com/FrancscV55">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7E22CE?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -127,7 +177,9 @@ The goal is to create an experience that makes taking care of your health **simp
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C026D3,50:7E22CE,100:3B0764&height=3&section=header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DB2777,25:C026D3,50:7C3AED,75:4F46E5,100:DB2777&height=4&section=header&animation=twinkling"/>
+
 </div>
 
 <br>
@@ -136,11 +188,15 @@ The goal is to create an experience that makes taking care of your health **simp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FrancscV55&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB&count_private=true&include_all_commits=true&rank_icon=github" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api?username=FrancscV55&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB&count_private=true&include_all_commits=true&rank_icon=github" width="65%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancscV55&hide_border=true&background=0D0D0D&ring=C026D3&fire=A855F7&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="55%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancscV55&hide_border=true&background=0D0D0D&ring=C026D3&fire=DB2777&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="65%" />
+
+<br><br>
+
+### `Code · Learn · Build · Repeat`
 
 </div>
 
@@ -148,14 +204,8 @@ The goal is to create an experience that makes taking care of your health **simp
 
 <div align="center">
 
-`Code · Learn · Build · Repeat`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,25:C026D3,50:DB2777,75:4F46E5,100:7C3AED&height=4&section=header&animation=twinkling"/>
 
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B0764,50:C026D3,100:7E22CE&height=3&section=header"/>
 </div>
 
 <br>
@@ -169,29 +219,25 @@ The goal is to create an experience that makes taking care of your health **simp
 
 <td width="50%" align="center">
 
-### PYTHON PROJECTS
+### PROJECT
 
-Projects and exercises developed while learning Python, programming logic, functions, lists, exceptions, and more.
+<br><br>
 
-<br>
+*Coming soon.*
 
-<a href="https://github.com/FrancscV55?tab=repositories">
-`View repositories →`
-</a>
+<br><br>
 
 </td>
 
 <td width="50%" align="center">
 
-### CREATIVE PROJECTS
+### PROJECT
 
-Digital projects where technology, design, creativity, and visual communication come together.
+<br><br>
 
-<br>
+*Coming soon.*
 
-<a href="https://github.com/FrancscV55?tab=repositories">
-`View repositories →`
-</a>
+<br><br>
 
 </td>
 
@@ -204,7 +250,7 @@ Digital projects where technology, design, creativity, and visual communication 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C026D3,50:7E22CE,100:3B0764&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DB2777,25:4F46E5,50:7C3AED,75:C026D3,100:DB2777&height=4&section=header&animation=twinkling"/>
 
 </div>
 
@@ -217,30 +263,36 @@ Digital projects where technology, design, creativity, and visual communication 
 <a href="https://github.com/FrancscV55">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-&nbsp;
+
+  
+
 <a href="https://instagram.com/TU_INSTAGRAM">
-<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
 </a>
-&nbsp;
+
+  
+
 <a href="https://linkedin.com/in/TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-&nbsp;
+
+  
+
 <a href="mailto:TU_EMAIL">
 <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=C026D3"/>
 </a>
 
 <br><br>
 
-**Thanks for visiting my profile.**
-
-<br>
-
 `Keep learning. Keep creating.`
+
+</div>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,35:3B0764,65:7E22CE,100:C026D3&height=8&section=footer&animation=twinkling"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,25:4F46E5,50:7C3AED,75:C026D3,100:DB2777&height=10&section=footer&animation=twinkling"/>
 
 </div>
 

@@ -1,79 +1,161 @@
 <div align="center">
 
-💚 ¡Hola! Soy Francisco Vásquez
-Developer • Student • Tech Enthusiast
+FRANCISCO VÁSQUEZ
+Student · Developer · Creative Thinker
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:10B981,100:34D399&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+<br>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Always+learning+something+new;Turning+ideas+into+projects" />
 
-<div align="center">
-
-🌿 Sobre mí
-
-💻 Apasionado por la tecnología y la programación
-📚 Siempre aprendiendo algo nuevo
-🚀 Me gusta convertir ideas en proyectos
-🎨 Interesado en crear cosas útiles, bonitas y funcionales
-
-"Keep learning. Keep building. Keep improving." 💚
+<br>
 
 </div>
 
-🧑‍💻 Tecnologías que estoy aprendiendo
+About Me
+
+I am passionate about technology, programming, and creating new things.
+
+I am always learning something new and exploring different ways to turn ideas into projects that are useful, creative, and professional.
+
+I enjoy working on projects where technology and creativity come together.
+
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark"/>
+Keep learning. Keep creating. Keep improving.
 
 </div>
 
-📊 Mi actividad en GitHub
+Technologies & Tools
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=064E3B&title_color=34D399&icon_color=10B981&text_color=FFFFFF"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=true&background=064E3B&ring=10B981&fire=34D399&currStreakLabel=34D399"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,canva&theme=dark" />
 
 </div>
 
-🐍 Mi actividad
+<br>
 
 <div align="center">
 
-
-
+Python    HTML    CSS    JavaScript    Git    GitHub    VS Code    Canva
 
 </div>
 
-🚀 Algunos de mis proyectos
+Featured Project
+HealthBoost
+
+A digital platform designed to make taking care of your health simpler, more personal, and sustainable.
+
+The platform focuses on improving three important areas:
+
+Emotional Well-being · Physical Health · Mental Well-being
+
+The idea is to create a personalized experience where users can receive recommendations according to their goals, habits, and progress.
 
 <div align="center">
 
-💡 Proyecto	📝 Descripción
-🌱 Proyecto 01	Una descripción corta de tu proyecto
-💻 Proyecto 02	Otro proyecto interesante
-🚀 Proyecto 03	Un proyecto en el que estés trabajando
+View Project
 
 </div>
 
-🌐 Conecta conmigo
+More Projects
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-064E3B?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<table> <tr> <td width="50%" valign="top">
 
-<a href="https://linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+Project 01
 
-<a href="mailto:TU_CORREO"> <img src="https://img.shields.io/badge/Email-34D399?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+A creative digital project focused on solving a real problem through technology.
+
+View project →
+
+</td>
+
+<td width="50%" valign="top">
+
+Project 02
+
+Another project where I combine creativity, design, and technology.
+
+View project →
+
+</td> </tr> </table>
 
 </div>
 
+GitHub Activity
+
 <div align="center">
 
-💚 Thanks for visiting my profile!
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB&count_private=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:10B981,100:064E3B&height=120&section=footer"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=E5E7EB" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D0D0D&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+Currently Learning
+
+<div align="center">
+
+<table> <tr> <td align="center" width="25%">
+
+Python
+
+Programming & problem solving
+
+</td>
+
+<td align="center" width="25%">
+
+Web Development
+
+HTML · CSS · JavaScript
+
+</td>
+
+<td align="center" width="25%">
+
+Git & GitHub
+
+Version control & collaboration
+
+</td>
+
+<td align="center" width="25%">
+
+Canva
+
+Digital design & visual communication
+
+</td> </tr> </table>
+
+</div>
+
+Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/TU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> &nbsp; <a href="https://instagram.com/TU_INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=A855F7"/> </a> &nbsp; <a href="https://www.linkedin.com/in/TU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A855F7"/> </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+Thanks for visiting my profile.
+
+Keep learning. Keep creating.
 
 </div>

@@ -1,299 +1,130 @@
-<div align="center">
+# `Francisco Vásquez`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=900&color=00FF88&center=true&vCenter=true&width=800&height=55&lines=FRANCISCO+VÁSQUEZ" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=900&color=00FF88&center=true&vCenter=true&width=800&height=55&lines=Student+%7C+Developer+%7C+Creative+Thinker" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&color=00D4FF&center=true&vCenter=true&width=800&height=40&lines=Always+learning+something+new;Turning+ideas+into+projects;Creating+something+better+every+day" />
+</p>
 
-### Student · Developer · Creative Thinker
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=700&color=00D4FF&center=true&vCenter=true&width=800&height=45&lines=Always+learning+something+new;Turning+ideas+into+projects;Creating+something+better+every+day" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=00FF88" />
-
-</div>
-
-<br>
-
-<div align="center">
+---
 
 ## ABOUT ME
 
-I am passionate about **technology, programming, and creating new things.**
+> I am passionate about **technology, programming, and creating new things.**
 
-I am always learning something new and exploring different ways to turn ideas into projects that are **useful, creative, and professional.**
+I am always learning something new and exploring different ways to turn ideas into projects that are **useful, creative, and professional**.
 
-I enjoy creating experiences where **technology, creativity, and design** come together.
-
-<br>
+I enjoy combining **technology, creativity, and design** to create experiences with purpose.
 
 **Keep learning. Keep creating. Keep improving.**
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=00D4FF" />
-
-</div>
-
-<br>
-
-<div align="center">
+---
 
 ## TECHNOLOGIES
 
-<br>
+<p align="center">
 
-<table>
-<tr>
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+**Python**
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="64"/>
-<br>
-<b>Python</b>
-</td>
+   
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="64"/>
-<br>
-<b>HTML</b>
-</td>
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+**HTML**
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css&theme=dark" width="64"/>
-<br>
-<b>CSS</b>
-</td>
+   
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="64"/>
-<br>
-<b>JavaScript</b>
-</td>
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+**CSS**
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="64"/>
-<br>
-<b>GitHub</b>
-</td>
+   
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="64"/>
-<br>
-<b>VS Code</b>
-</td>
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+**JavaScript**
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=canva&theme=dark" width="64"/>
-<br>
-<b>Canva</b>
-</td>
+   
 
-</tr>
-</table>
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+**GitHub**
 
-</div>
+   
 
-<br>
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+**VS Code**
 
-<div align="center">
+   
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=7C3AED" />
+[![Canva](https://skillicons.dev/icons?i=canva)](https://www.canva.com/)
+**Canva**
 
-</div>
+</p>
 
-<br>
+---
 
-<div align="center">
+# FEATURED PROJECT
 
 ## HEALTHBOOST
 
-### Digital Platform · Health · Technology · Personalization
+**Digital Platform · Health · Technology · Personalization**
 
-<br>
+> *“Taking care of your health shouldn't be difficult.”*
 
-<table>
-<tr>
-<td width="82%" align="center">
+HealthBoost is a digital platform created around the idea of making healthy living **simpler, more personal, and more sustainable**.
 
-**HealthBoost** was created from one simple idea:
+### Focus
 
-<br>
+`EMOTIONAL WELL-BEING` · `PHYSICAL HEALTH` · `MENTAL WELL-BEING`
 
-> *Taking care of your health shouldn't be difficult.*
+### Vision
 
-<br>
+Create an experience that makes taking care of your health **simpler, more personal, and more sustainable**.
 
-A digital platform focused on:
+[![HealthBoost](https://img.shields.io/badge/EXPLORE_HEALTHBOOST-00FF88?style=for-the-badge\&logo=github\&logoColor=black\&labelColor=111111)](https://github.com/FrancscV55)
 
-**Emotional Well-being** · **Physical Health** · **Mental Well-being**
+---
 
-<br><br>
+# GITHUB ACTIVITY
 
-The goal is to make taking care of your health **simpler, more personal, and more sustainable.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrancscV55&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF88&icon_color=00D4FF&text_color=E5E7EB&count_private=true&include_all_commits=true&rank_icon=github" width="80%" />
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancscV55&hide_border=true&background=0D0D0D&ring=7C3AED&fire=00D4FF&currStreakLabel=00FF88&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="80%" />
+</p>
 
-<br>
+---
 
-<a href="https://github.com/FrancscV55">
-<img src="https://img.shields.io/badge/EXPLORE_HEALTHBOOST-00FF88?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
+# MORE PROJECTS
 
-</div>
+|     PROJECT    |    STATUS   |
+| :------------: | :---------: |
+| **Project 01** | Coming soon |
+| **Project 02** | Coming soon |
+| **Project 03** | Coming soon |
 
-<br>
+---
 
-<div align="center">
+# LET'S CONNECT
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=00FF88" />
+<p align="center">
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=111111)](https://github.com/FrancscV55)
+ 
+[![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge\&logo=instagram\&logoColor=00FF88\&labelColor=111111)](https://instagram.com/TU_INSTAGRAM)
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge\&logo=linkedin\&logoColor=00D4FF\&labelColor=111111)](https://linkedin.com/in/TU_LINKEDIN)
+ 
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge\&logo=gmail\&logoColor=7C3AED\&labelColor=111111)](mailto:TU_EMAIL)
 
-<br>
+</p>
 
-<div align="center">
+---
 
-## GITHUB ACTIVITY
+<p align="center">
 
-<br>
+**TECHNOLOGY · CREATIVITY · DESIGN**
 
-<img src="https://github-readme-stats.vercel.app/api?username=FrancscV55&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF88&icon_color=00D4FF&text_color=E5E7EB&count_private=true&include_all_commits=true&rank_icon=github" width="78%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancscV55&hide_border=true&background=0D0D0D&ring=7C3AED&fire=00D4FF&currStreakLabel=00FF88&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="78%" />
-
-<br><br>
-
-### Code · Learn · Build · Repeat
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=00D4FF" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## MORE PROJECTS
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="45%">
-
-### PROJECT
-
-<br>
-
-Coming soon
-
-</td>
-
-<td align="center" width="45%">
-
-### PROJECT
-
-<br>
-
-Coming soon
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=7C3AED" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## LET'S CONNECT
-
-<br><br>
-
-<table>
-<tr>
-
-<td align="center" width="190">
-
-<a href="https://github.com/FrancscV55">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="72"/>
-<br><br>
-<b>GitHub</b>
-</a>
-
-</td>
-
-<td align="center" width="190">
-
-<a href="https://instagram.com/TU_INSTAGRAM">
-<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="72"/>
-<br><br>
-<b>Instagram</b>
-</a>
-
-</td>
-
-<td align="center" width="190">
-
-<a href="https://linkedin.com/in/TU_LINKEDIN">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="72"/>
-<br><br>
-<b>LinkedIn</b>
-</a>
-
-</td>
-
-<td align="center" width="190">
-
-<a href="mailto:TU_EMAIL">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="72"/>
-<br><br>
-<b>Email</b>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-**Keep learning. Keep creating.**
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&section=footer&color=00FF88" />
-
-</div>
+</p>

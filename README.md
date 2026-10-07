@@ -1,98 +1,175 @@
 <div align="center">
 
-FRANCISCO VÁSQUEZ
-Student · Developer · Creative Thinker
+# FRANCISCO VÁSQUEZ
+
+### `Student · Developer · Creative Thinker`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Always+learning+something+new;Turning+ideas+into+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=Always+learning+something+new;Turning+ideas+into+projects;Creating+something+better+every+day" />
 
-<br>
+<br><br>
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 </div>
 
-About Me
+<br>
+
+## ABOUT ME
 
 I am passionate about technology, programming, and creating new things.
 
 I am always learning something new and exploring different ways to turn ideas into projects that are useful, creative, and professional.
 
-I enjoy working on projects where technology and creativity come together.
+I enjoy creating experiences where **technology, creativity, and design** come together.
 
 <br>
 
 <div align="center">
 
-Keep learning. Keep creating. Keep improving.
+### *Keep learning. Keep creating. Keep improving.*
 
 </div>
 
-Technologies & Tools
+<br>
+
+<div align="center">
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+</div>
+
+<br>
+
+## TECHNOLOGIES
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,canva&theme=dark" />
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=flat-square&logo=html5&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=flat-square&logo=css3&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Canva-0D0D0D?style=flat-square&logo=canva&logoColor=C084FC"/>
+
 </div>
 
 <br>
 
 <div align="center">
 
-Python    HTML    CSS    JavaScript    Git    GitHub    VS Code    Canva
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 </div>
 
-Featured Project
-HealthBoost
+<br>
 
-A digital platform designed to make taking care of your health simpler, more personal, and sustainable.
-
-The platform focuses on improving three important areas:
-
-Emotional Well-being · Physical Health · Mental Well-being
-
-The idea is to create a personalized experience where users can receive recommendations according to their goals, habits, and progress.
+## FEATURED PROJECT
 
 <div align="center">
 
-View Project
+# HEALTHBOOST
+
+### A digital platform for a healthier lifestyle
 
 </div>
 
-More Projects
+HealthBoost was created from one simple idea: **taking care of your health shouldn't be difficult.**
+
+The platform focuses on three important areas:
+
+|  EMOTIONAL |    PHYSICAL    |      MENTAL     |
+| :--------: | :------------: | :-------------: |
+| Well-being | Healthy habits | Personal growth |
+
+The goal is to create a personalized experience that makes taking care of your health **simpler, more personal, and more sustainable.**
+
+<br>
 
 <div align="center">
 
-<table> <tr> <td width="50%" valign="top">
+<a href="https://github.com/TU_USUARIO">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Project 01
+</div>
 
-A creative digital project focused on solving a real problem through technology.
+<br>
 
+<div align="center">
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+</div>
+
+<br>
+
+## GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C084FC&icon_color=A855F7&text_color=FFFFFF&count_private=true&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C084FC&text_color=FFFFFF" width="40%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D0D0D&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="92%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+</div>
+
+<br>
+
+## MORE PROJECTS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### PROJECT 01
+
+A digital project created to solve a real problem through technology.
+
+<br>
+
+<a href="https://github.com/TU_USUARIO">
 View project →
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-Project 02
+### PROJECT 02
 
-Another project where I combine creativity, design, and technology.
+A creative project combining technology, design, and functionality.
 
+<br>
+
+<a href="https://github.com/TU_USUARIO">
 View project →
+</a>
 
-</td> </tr> </table>
+</td>
 
-</div>
-
-GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=C084FC&text_color=E5E7EB&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=E5E7EB" />
+</tr>
+</table>
 
 </div>
 
@@ -100,62 +177,34 @@ GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D0D0D&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-Currently Learning
-
-<div align="center">
-
-<table> <tr> <td align="center" width="25%">
-
-Python
-
-Programming & problem solving
-
-</td>
-
-<td align="center" width="25%">
-
-Web Development
-
-HTML · CSS · JavaScript
-
-</td>
-
-<td align="center" width="25%">
-
-Git & GitHub
-
-Version control & collaboration
-
-</td>
-
-<td align="center" width="25%">
-
-Canva
-
-Digital design & visual communication
-
-</td> </tr> </table>
-
-</div>
-
-Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/TU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> &nbsp; <a href="https://instagram.com/TU_INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=A855F7"/> </a> &nbsp; <a href="https://www.linkedin.com/in/TU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A855F7"/> </a>
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 </div>
 
 <br>
 
+## LET'S CONNECT
+
 <div align="center">
 
-Thanks for visiting my profile.
+<a href="https://github.com/TU_USUARIO">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/TU_INSTAGRAM">
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=C084FC"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
+</a>
 
-Keep learning. Keep creating.
+<br><br>
+
+**Thanks for stopping by.**
+
+<br>
+
+`Keep learning. Keep creating.`
 
 </div>

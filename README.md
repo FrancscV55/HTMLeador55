@@ -1,182 +1,144 @@
 <div align="center">
 
-<a href="https://github.com/FrancscV55">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&width=1000&height=90&lines=FRANCISCO+V%C3%81SQUEZ;CREATIVE+DEVELOPER;DIGITAL+CREATOR;IDEAS+INTO+REALITY" alt="Francisco Vásquez"/>
-</a>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=170&text=FRANCISCO%20V%C3%81SQUEZ&fontSize=52&fontColor=8B5CF6&fontAlignY=45&desc=CREATIVE%20DEVELOPER%20%2F%20DIGITAL%20CREATOR&descSize=17&descColor=FFFFFF&descAlignY=68&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:090014,30:240A3D,65:6D28D9,85:8B5CF6,100:FF6B00&section=header&animation=twinkling" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1700&pause=400&color=FF6B00&center=true&vCenter=true&width=850&height=45&lines=Always+learning+something+new;Turning+ideas+into+projects;Creating+something+better+every+day;Technology+meets+creativity" alt="Creative mindset"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-`CODE`    **×**    `CREATIVITY`    **×**    `DESIGN`    **×**    `IDEAS`
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# CREATIVE MIND
-
-### I DON'T JUST WANT THINGS TO WORK.
-
-### I WANT THEM TO FEEL DIFFERENT.
-
-</div>
-
-<br>
-
-I am interested in the space where **technology and creativity meet**.
-
-Programming, for me, is not simply about writing lines of code and getting a result on the screen. It is about taking an idea that may exist only as a thought and finding a way to turn it into something real, understandable and visually meaningful.
-
-I like experimenting.
-
-I like changing things.
-
-I like seeing what happens when an ordinary idea is approached from a different perspective.
-
-A project can begin with a simple concept and gradually become something much more interesting through research, experimentation, design and iteration.
-
-That is one of the parts of technology that interests me the most:
-
-**the possibility of creating something that did not exist before.**
-
-I am constantly learning because there is always another tool to discover, another concept to understand and another way to improve what I already know.
-
-I don't believe creativity and programming have to exist separately.
-
-They can work together.
-
-And when they do, technology becomes much more than functionality.
-
-It becomes **experience**.
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=750&pause=100&color=8B5CF6&center=true&vCenter=true&width=850&height=50&lines=THINK.;CREATE.;TEST.;BREAK.;REBUILD.;IMPROVE.;REPEAT." alt="Creative process"/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# WHAT I LIKE TO BUILD
-
-</div>
-
-<br>
-
-I enjoy creating digital ideas that combine **functionality, visual communication and creativity**.
-
-I am interested in projects where the final result is not just something that technically works, but something that has an identity of its own.
-
-I like asking questions such as:
-
-**How can this be simpler?**
-
-**How can this look better?**
-
-**How can someone understand this faster?**
-
-**How can technology make this experience more interesting?**
-
-Those questions influence the way I approach the projects I work on.
-
-Sometimes the most important part of a project is not adding another feature.
-
-Sometimes it is knowing **what should be removed**.
-
-Good design is not about filling every available space.
-
-Good development is not about writing the most code.
-
-The goal is to create something that makes sense.
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="70%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### IDEA → EXPLORATION → DESIGN → CODE → TEST → IMPROVEMENT
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# MY CREATIVE TOOLKIT
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,github,vscode,canva&theme=dark&perline=7" alt="Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=700&color=FF7A00&center=true&vCenter=true&width=800&height=35&lines=Always+learning+something+new;Turning+ideas+into+projects;Creating+something+better+every+day" alt="Creative mindset"/>
 
 <br><br>
 
-<b>Python</b>
-     <b>HTML</b>
-     <b>CSS</b>
-     <b>JavaScript</b>
-     <b>GitHub</b>
-     <b>VS Code</b>
-     <b>Canva</b>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=55&color=0:10051A,50:4C1D95,100:FF7A00&animation=twinkling" width="72%"/>
 
 </div>
 
 <br>
 
-I use these tools depending on what an idea needs.
+## CREATIVE MIND
 
-**Python** helps me work with programming logic and understand how software can process information and solve problems.
+I am interested in the point where **technology, creativity and ideas** come together.
 
-**HTML** gives structure to digital experiences.
+For me, creating something is not simply about making it work. It is about understanding an idea, exploring different possibilities and finding a way to turn that idea into something that feels clear, useful and different.
 
-**CSS** gives that structure a visual identity and allows me to experiment with presentation and design.
+I enjoy learning by doing.
 
-**JavaScript** opens the door to interaction and dynamic experiences.
+I like experimenting with new tools, discovering how things work, trying different approaches and improving what I create along the way.
 
-**GitHub** gives me a place to organize projects, experiments and development work.
+A project does not always begin with a perfect plan.
 
-**VS Code** is where many of those ideas become actual code.
+Sometimes it begins with a simple idea.
 
-And **Canva** is part of the creative side of my workflow, especially when an idea needs visual communication, presentation or design.
+Then comes the process of asking questions, testing possibilities, making mistakes, changing things and eventually finding a direction that works.
 
-The interesting part is not simply knowing the tools.
+That process is one of the things I enjoy most about technology.
 
-It is learning **when to use each one**.
+I want to continue developing both sides of my creativity:
+
+**the logical side that solves problems**
+and
+**the creative side that gives those solutions personality.**
+
+<div align="center">
+
+<br>
+
+`THINK`　→　`EXPLORE`　→　`CREATE`　→　`IMPROVE`
+
+<br><br>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=650&pause=100&color=FF6B00&center=true&vCenter=true&width=900&height=45&lines=%3C+LEARNING+%2F%3E;%3C+EXPERIMENTING+%2F%3E;%3C+CREATING+%2F%3E;%3C+IMPROVING+%2F%3E" alt="Learning animation"/>
+# WHAT I CREATE
+
+</div>
+
+I enjoy working on ideas that combine digital technology with creativity and visual communication.
+
+I like projects that have a purpose, but I also care about how that purpose is communicated.
+
+A project can be functional and still have personality.
+
+It can be simple and still be memorable.
+
+It can use technology without feeling unnecessarily complicated.
+
+That balance is something I want to continue developing.
+
+I am interested in creating things that are easy to understand, visually interesting and capable of becoming something more than just an idea.
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=850&height=35&lines=Ideas+deserve+good+execution.;Good+execution+starts+with+curiosity.;Curiosity+keeps+the+process+moving." alt="Ideas"/>
+
+</div>
+
+---
+
+## MY CREATIVE TOOLKIT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,github,vscode,canva&theme=dark&perline=7" alt="Python HTML CSS JavaScript GitHub VS Code Canva"/>
+
+<br>
+
+<b>Python</b>
+　　<b>HTML</b>
+　　<b>CSS</b>
+　　<b>JavaScript</b>
+　　<b>GitHub</b>
+　　<b>VS Code</b>
+　　<b>Canva</b>
+
+</div>
+
+<br>
+
+### Python
+
+I use Python to develop my programming logic, understand how code processes information and practice solving problems through programming.
+
+### HTML
+
+HTML gives structure to the digital experiences I create and helps me understand how information is organized on the web.
+
+### CSS
+
+CSS is where structure starts becoming visual. It allows me to experiment with presentation, organization and visual identity.
+
+### JavaScript
+
+JavaScript allows me to explore interaction and understand how websites can respond to users and behave dynamically.
+
+### GitHub
+
+GitHub gives me a place to organize my work, keep track of projects and share what I am building.
+
+### VS Code
+
+VS Code is one of the main environments where I write, test and improve my code.
+
+### Canva
+
+Canva is part of my creative workflow. I use it when an idea needs visual communication, presentation or design.
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=TOOLS%20ARE%20ONLY%20THE%20BEGINNING&fontSize=16&fontColor=FF7A00&animation=fadeIn" />
 
 </div>
 
@@ -186,139 +148,133 @@ It is learning **when to use each one**.
 
 # HEALTHBOOST
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=1500&pause=350&color=8B5CF6&center=true&vCenter=true&width=800&height=55&lines=TAKING+CARE+OF+YOUR+HEALTH+SHOULDN'T+BE+DIFFICULT." alt="HealthBoost"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=75&text=HEALTHBOOST&fontSize=36&fontColor=8B5CF6&animation=fadeIn" />
 
 </div>
-
-<br>
 
 HealthBoost was born from one simple belief:
 
 > **Taking care of your health shouldn't be difficult.**
 
-The concept focuses on creating a more accessible and personalized approach to health and well-being.
+The idea behind HealthBoost is to create a health experience that feels **simple, personal and motivating**.
 
-The idea is simple:
+Instead of giving everyone the same generic recommendations, the concept focuses on understanding the person, their goals and their needs.
 
-**people answer questions → the experience understands their needs → recommendations become more personal.**
+The user answers questions and receives recommendations related to workouts, nutrition, lifestyle and personal goals.
 
-Instead of giving everyone the same generic experience, HealthBoost is built around the idea that technology can adapt to the person using it.
+The idea is not to overwhelm people with information.
 
-The project brings together different aspects of well-being, including:
+It is to make taking care of their health feel easier to begin and easier to maintain.
+
+HealthBoost also brings together different aspects of well-being:
 
 **physical health · mental well-being · emotional well-being · lifestyle · personal goals**
 
-The objective is not to overwhelm people with information.
+Technology becomes useful when it adapts to people instead of forcing people to adapt to technology.
 
-It is to make healthy living feel **simpler, more personal and more sustainable**.
-
-HealthBoost also represents something important about the way I like to approach projects.
-
-A technological solution should not exist simply because technology makes it possible.
-
-It should exist because it can **improve an experience, solve a problem or make something easier**.
-
-That is the idea behind HealthBoost.
-
-<br>
+That is the experience I want HealthBoost to represent.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=850&pause=150&color=FF6B00&center=true&vCenter=true&width=900&height=50&lines=SIMPLE.;PERSONAL.;MOTIVATING.;SUSTAINABLE." alt="HealthBoost values"/>
-
-</div>
-
 <br>
 
----
-
-<div align="center">
-
-# HOW I APPROACH A PROJECT
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1500&pause=500&color=FF7A00&center=true&vCenter=true&width=850&height=40&lines=SIMPLE+%2F+PERSONAL+%2F+MOTIVATING+%2F+SUSTAINABLE" alt="HealthBoost concept"/>
 
 <br>
-
-### 01 — THE IDEA
-
-Everything starts with a question, a problem or simply the desire to create something.
-
-### 02 — THE EXPLORATION
-
-I look at different possibilities before deciding what direction makes the most sense.
-
-### 03 — THE FIRST VERSION
-
-The first version does not need to be perfect.
-
-It needs to exist.
-
-### 04 — THE EXPERIMENT
-
-This is where things start changing.
-
-I test, compare, adjust and discover what works.
-
-### 05 — THE DETAILS
-
-Once the main idea works, the small details become important.
-
-The structure.
-
-The visual identity.
-
-The experience.
-
-The things people notice without necessarily realizing why.
-
-### 06 — THE IMPROVEMENT
-
-The project is never finished simply because it works.
-
-There is always something that can be clearer, faster, simpler or better.
-
-<br>
-
-<div align="center">
-
-**BUILD → OBSERVE → LEARN → IMPROVE**
 
 </div>
 
 ---
 
-<div align="center">
+## HOW I WORK
 
-# CURRENTLY
+I like starting with the idea before worrying about the final result.
+
+First comes the question:
+
+**What am I trying to create?**
+
+Then comes exploration.
+
+What could it look like?
+
+What could make it easier?
+
+What could make it more interesting?
+
+What could make the experience better?
+
+After that comes experimentation.
+
+The first version is not necessarily the final version. It is simply the beginning.
+
+I test.
+
+I change things.
+
+I remove what is unnecessary.
+
+I add what is missing.
+
+I look at the result again.
+
+Then I improve it.
+
+That process matters because sometimes the best solution is not the first one you imagine.
+
+Sometimes you only discover the right direction after several wrong ones.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=1000&pause=250&color=8B5CF6&center=true&vCenter=true&width=850&height=55&lines=LEARNING+MORE+ABOUT+PROGRAMMING;EXPLORING+DIGITAL+CREATIVITY;BUILDING+NEW+IDEAS;IMPROVING+EVERY+PROJECT" alt="Currently learning"/>
+<div align="center">
+
+**IDEA**
+
+↓
+
+**EXPERIMENT**
+
+↓
+
+**BUILD**
+
+↓
+
+**OBSERVE**
+
+↓
+
+**IMPROVE**
 
 </div>
 
+---
+
+## CURRENTLY
+
+I am continuing to develop my programming knowledge while exploring the creative side of technology.
+
+I want to understand more than just how individual pieces of code work.
+
+I want to understand how those pieces can come together to create something complete.
+
+I am interested in learning through projects, experimentation and constant improvement.
+
+There are still many technologies I want to explore, many ideas I want to develop and many things I have not learned yet.
+
+And that is exactly what makes the process interesting.
+
+There is always something else to discover.
+
 <br>
 
-I am still building my knowledge.
+<div align="center">
 
-There are technologies I know better than others, concepts I am still learning and many areas I have not explored yet.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=500&color=8B5CF6&center=true&vCenter=true&width=850&height=35&lines=Learning.;Exploring.;Building.;Improving." alt="Currently"/>
 
-And that is part of the process.
-
-I don't see learning as something that ends once you understand one programming language or one tool.
-
-Technology changes constantly.
-
-New tools appear.
-
-New approaches become possible.
-
-New ideas create new problems to solve.
-
-So I prefer to keep learning and experimenting.
-
-Every project becomes another opportunity to understand something I didn't understand before.
+</div>
 
 ---
 
@@ -328,43 +284,37 @@ Every project becomes another opportunity to understand something I didn't under
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FrancscV55&show_icons=true&hide_border=true&bg_color=090014&title_color=8B5CF6&icon_color=FF6B00&text_color=FFFFFF&count_private=true&include_all_commits=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=FrancscV55&show_icons=true&hide_border=true&bg_color=10051A&title_color=8B5CF6&icon_color=FF7A00&text_color=FFFFFF&count_private=true&include_all_commits=true" height="175"/>
 
-<img src="https://streak-stats.demolab.com?user=FrancscV55&hide_border=true&background=090014&ring=8B5CF6&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="175"/>
+  
+
+<img src="https://streak-stats.demolab.com?user=FrancscV55&hide_border=true&background=10051A&ring=8B5CF6&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="175"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancscV55&layout=compact&hide_border=true&bg_color=090014&title_color=8B5CF6&text_color=FFFFFF" height="145"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancscV55&layout=compact&hide_border=true&bg_color=10051A&title_color=8B5CF6&text_color=FFFFFF" height="145"/>
 
 </div>
 
 ---
 
-<div align="center">
+## MORE THAN CODE
 
-# BEYOND THE CODE
+Programming is one part of the way I create.
 
-</div>
+I also enjoy the visual side of ideas: how something is presented, how information is organized and how a person experiences the final result.
 
-<br>
+For me, technology and creativity are not opposite directions.
 
-Programming is only one part of what I enjoy.
+They can strengthen each other.
 
-I also care about how ideas are communicated visually.
+Code can give an idea structure.
 
-A technically good project can still feel confusing if the presentation is poor.
+Design can give it identity.
 
-A beautiful design can still fail if the experience doesn't make sense.
+And creativity can give it a reason to exist.
 
-That is why I enjoy working between both sides.
-
-**Logic gives an idea structure.**
-
-**Creativity gives it personality.**
-
-**Design gives it communication.**
-
-And technology brings everything together.
+That is the direction I want to keep exploring.
 
 ---
 
@@ -375,31 +325,31 @@ And technology brings everything together.
 <br>
 
 <a href="https://github.com/FrancscV55">
-<img src="https://img.shields.io/badge/GitHub-090014?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-&nbsp;
-<a href="https://instagram.com/TU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-090014?style=for-the-badge&logo=instagram&logoColor=8B5CF6" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-090014?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" />
-</a>
-&nbsp;
-<a href="mailto:TU_EMAIL">
-<img src="https://img.shields.io/badge/Email-090014?style=for-the-badge&logo=gmail&logoColor=FF6B00" />
+<img src="https://img.shields.io/badge/GitHub-10051A?style=flat&logo=github&logoColor=FFFFFF"/>
 </a>
 
-</div>
+ 
+
+<a href="https://instagram.com/TU_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-10051A?style=flat&logo=instagram&logoColor=8B5CF6"/>
+</a>
+
+ 
+
+<a href="https://linkedin.com/in/TU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-10051A?style=flat&logo=linkedin&logoColor=8B5CF6"/>
+</a>
+
+ 
+
+<a href="mailto:TU_EMAIL">
+<img src="https://img.shields.io/badge/Email-10051A?style=flat&logo=gmail&logoColor=FF7A00"/>
+</a>
 
 <br><br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=700&color=FF7A00&center=true&vCenter=true&width=800&height=35&lines=Keep+learning.;Keep+creating.;Keep+building." alt="Closing message"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1100&pause=250&color=8B5CF6&center=true&vCenter=true&width=900&height=55&lines=THERE+IS+ALWAYS+MORE+TO+BUILD.;THERE+IS+ALWAYS+MORE+TO+LEARN.;THERE+IS+ALWAYS+ANOTHER+IDEA." alt="Final animation"/>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:FF6B00,35:8B5CF6,70:4C1D95,100:090014&section=footer&animation=twinkling" width="100%"/>
+<br><br>
 
 </div>

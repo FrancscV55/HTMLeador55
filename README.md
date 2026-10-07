@@ -1,165 +1,184 @@
 # FRANCISCO VÁSQUEZ
 
-![Banner](https://capsule-render.vercel.app/api?type=waving\&height=190\&color=0:050505,45:062A25,75:063B54,100:241044\&text=FRANCISCO%20VÁSQUEZ\&fontSize=42\&fontColor=FFFFFF\&fontAlignY=40\&animation=fadeIn\&desc=CREATIVE%20DEVELOPER%20%7C%20DIGITAL%20CREATOR\&descAlignY=62\&descSize=17)
+![Creative Developer](https://capsule-render.vercel.app/api?type=waving\&height=230\&color=0:080512,45:24104F,75:123C5A,100:071A16\&text=FRANCISCO%20VÁSQUEZ\&fontSize=44\&fontColor=FFFFFF\&fontAlignY=40\&animation=fadeIn\&desc=CREATIVE%20DEVELOPER%20%E2%80%A2%20DIGITAL%20CREATOR%20%E2%80%A2%20BUILDER\&descAlignY=63\&descSize=16)
 
-<p align="center">
-
-![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=19\&pause=900\&color=00FF88\&center=true\&vCenter=true\&width=900\&height=40\&lines=Always+learning+something+new;Turning+ideas+into+projects;Creating+something+better+every+day)
-
-</p>
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=21\&pause=850\&color=8B5CF6\&center=true\&vCenter=true\&width=900\&height=50\&lines=Always+learning+something+new;Turning+ideas+into+projects;Creating+something+better+every+day;Technology+meets+creativity.)
 
 ---
 
-## ABOUT ME
+### `01 — CREATIVE MIND`
 
-|                                                                       |                                                                                |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| **WHO I AM**                                                          | **WHAT I LIKE TO CREATE**                                                      |
-| Student interested in technology, programming, creativity and design. | Digital ideas that combine **technology + creativity + visual communication**. |
-| I enjoy learning new tools and turning ideas into projects.           | I care about how a project **works, looks and feels**.                         |
-| **MINDSET:** Keep learning. Keep creating. Keep improving.            | **GOAL:** Turn simple ideas into something people remember.                    |
+**I don't just want to make things work.
+I want to make them feel different.**
 
----
+I'm passionate about **technology, programming, creativity and design**.
 
-# CREATIVE SPACE
+I like taking an idea from the first sketch, experimenting with different possibilities, improving the details and turning it into something that actually feels complete.
 
-| TECHNOLOGY |   CREATIVITY  |     DESIGN    |
-| :--------: | :-----------: | :-----------: |
-|   `CODE`   |    `IDEAS`    |   `VISUALS`   |
-|  Building  | Experimenting | Communicating |
-|    Logic   |    Creating   |   Designing   |
-
-> **The tool is only the beginning. The idea is what matters.**
+**Learn → Imagine → Create → Improve**
 
 ---
 
-# TECH STACK
+![Creative Line](https://capsule-render.vercel.app/api?type=rect\&height=4\&color=8B5CF6)
 
-<p align="center">
+## THE WAY I SEE TECHNOLOGY
 
-![Python](https://skillicons.dev/icons?i=python)
+> **Technology is the tool.
+> Creativity is what makes the tool interesting.**
 
-  
+I enjoy combining:
 
-![HTML](https://skillicons.dev/icons?i=html)
+`CODE`  +  `DESIGN`  +  `IDEAS`  +  `EXPERIENCE`
 
-  
+Not everything has to look the same.
 
-![CSS](https://skillicons.dev/icons?i=css)
+Not every project needs to follow a template.
 
-  
-
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-
-  
-
-![GitHub](https://skillicons.dev/icons?i=github)
-
-  
-
-![VS Code](https://skillicons.dev/icons?i=vscode)
-
-  
-
-![Canva](https://skillicons.dev/icons?i=canva)
-
-</p>
-
-<p align="center">
-
-**PYTHON**    **HTML**    **CSS**    **JAVASCRIPT**    **GITHUB**    **VS CODE**    **CANVA**
-
-</p>
+**The best projects have their own identity.**
 
 ---
+
+## `02 — WHAT I CREATE`
+
+![Creative](https://img.shields.io/badge/CREATIVE-080512?style=for-the-badge\&logoColor=FFFFFF)
+![Digital](https://img.shields.io/badge/DIGITAL-24104F?style=for-the-badge\&logoColor=FFFFFF)
+![Technology](https://img.shields.io/badge/TECHNOLOGY-123C5A?style=for-the-badge\&logoColor=FFFFFF)
+![Design](https://img.shields.io/badge/DESIGN-071A16?style=for-the-badge\&logoColor=FFFFFF)
+
+### DIGITAL IDEAS
+
+Projects that mix technology with creativity and visual communication.
+
+### EXPERIENCES
+
+Ideas designed not only to work, but to be **clear, attractive and memorable**.
+
+### EXPERIMENTS
+
+New concepts, new tools and new ways of creating.
+
+---
+
+![Creative Divider](https://capsule-render.vercel.app/api?type=waving\&height=90\&color=0:8B5CF6,50:2563EB,100:00FF88\&section=header)
 
 # FEATURED PROJECT
 
 ## HEALTHBOOST
 
-| THE IDEA                                                              | THE EXPERIENCE                                                                                   |
-| :-------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
-| **“Taking care of your health shouldn't be difficult.”**              | A digital concept focused on making health care **simpler, more personal and more sustainable.** |
-| **Focus:** Emotional Well-being · Physical Health · Mental Well-being | **Approach:** Personalization · Technology · Simplicity                                          |
+![HealthBoost](https://img.shields.io/badge/HEALTHBOOST-8B5CF6?style=for-the-badge\&logoColor=FFFFFF)
 
-### WHY IT EXISTS
+### *Taking care of your health shouldn't be difficult.*
 
-HealthBoost was created from a simple idea:
+HealthBoost started with a simple idea and became a digital concept focused on making health care:
 
-**technology should make taking care of yourself easier — not more complicated.**
+**simpler · more personal · more sustainable**
 
----
+Its concept brings together:
 
-# WHAT I'M BUILDING
+`EMOTIONAL WELL-BEING` · `PHYSICAL HEALTH` · `MENTAL WELL-BEING`
 
-|           `01`           |                `02`               |        `03`        |
-| :----------------------: | :-------------------------------: | :----------------: |
-|         **IDEAS**        |            **PROJECTS**           |   **EXPERIMENTS**  |
-| Concepts worth exploring | Turning ideas into something real | Learning by trying |
-|        `CREATIVE`        |              `USEFUL`             |      `BETTER`      |
+The important part isn't simply creating another health platform.
+
+It's creating an experience that makes people **want to take care of themselves**.
+
+![Health Concept](https://capsule-render.vercel.app/api?type=soft\&height=70\&color=0:080512,50:24104F,100:071A16\&text=IDEA%20%E2%86%92%20DESIGN%20%E2%86%92%20EXPERIENCE\&fontSize=18\&fontColor=FFFFFF)
 
 ---
 
-# GITHUB ACTIVITY
+# `03 — MY CREATIVE TOOLKIT`
 
-<p align="center">
+![Python](https://skillicons.dev/icons?i=python\&theme=dark)
+![HTML](https://skillicons.dev/icons?i=html\&theme=dark)
+![CSS](https://skillicons.dev/icons?i=css\&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=javascript\&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github\&theme=dark)
+![VS Code](https://skillicons.dev/icons?i=vscode\&theme=dark)
+![Canva](https://skillicons.dev/icons?i=canva\&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancscV55\&show_icons=true\&hide_border=true\&bg_color=050505\&title_color=00FF88\&icon_color=00D4FF\&text_color=FFFFFF\&count_private=true\&include_all_commits=true\&rank_icon=github)
-
-   
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrancscV55\&theme=dark\&hide_border=true\&background=050505\&ring=00FF88\&fire=00D4FF\&currStreakLabel=00FF88\&sideLabels=FFFFFF\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&dates=8B949E)
-
-</p>
-
-<p align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancscV55\&layout=compact\&hide_border=true\&bg_color=050505\&title_color=00FF88\&text_color=FFFFFF)
-
-</p>
+**Python** · **HTML** · **CSS** · **JavaScript** · **GitHub** · **VS Code** · **Canva**
 
 ---
 
-# CURRENT FOCUS
+![Neon Divider](https://capsule-render.vercel.app/api?type=rect\&height=4\&color=8B5CF6)
 
-|    LEARNING   |      BUILDING      |       EXPLORING       |
-| :-----------: | :----------------: | :-------------------: |
-|  Programming  |  Personal projects |    New technologies   |
-| Digital tools |  Creative concepts | Better ways to create |
-|   New skills  | Ideas with purpose |  Design + technology  |
+# `04 — CURRENTLY`
 
----
+### LEARNING
 
-# MORE PROJECTS
+Programming, digital tools and new ways to turn ideas into something real.
 
-| PROJECT         | DESCRIPTION                   |   STATUS   |
-| :-------------- | :---------------------------- | :--------: |
-| **HEALTHBOOST** | Digital health concept        |  `ACTIVE`  |
-| **PROJECT 02**  | New idea coming soon          | `BUILDING` |
-| **PROJECT 03**  | Something new is taking shape |   `SOON`   |
+### BUILDING
 
----
+Personal concepts and projects where technology and creativity meet.
 
-# LET'S CONNECT
+### EXPLORING
 
-<p align="center">
+New ideas, visual styles, tools and possibilities.
 
-[![GitHub](https://img.shields.io/badge/GITHUB-050505?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/FrancscV55)
- 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge\&logo=instagram\&logoColor=00FF88)](https://instagram.com/TU_INSTAGRAM)
- 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge\&logo=linkedin\&logoColor=00D4FF)](https://linkedin.com/in/TU_LINKEDIN)
- 
-[![Email](https://img.shields.io/badge/EMAIL-050505?style=for-the-badge\&logo=gmail\&logoColor=7C3AED)](mailto:TU_EMAIL)
+### IMPROVING
 
-</p>
+Because the first version is almost never the best version.
 
 ---
 
-<p align="center">
+# `05 — CREATIVE PROCESS`
 
-![Footer](https://capsule-render.vercel.app/api?type=waving\&height=120\&color=0:241044,40:063B54,70:062A25,100:050505\&section=footer)
+![Process](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=18\&pause=500\&color=00FF88\&center=true\&vCenter=true\&width=900\&height=45\&lines=IDEA+%E2%86%92+EXPERIMENT+%E2%86%92+DESIGN+%E2%86%92+BUILD+%E2%86%92+IMPROVE)
 
-### BUILD · CREATE · IMPROVE
+**01** — Find the idea.
 
-</p>
+**02** — Explore the possibilities.
+
+**03** — Build the first version.
+
+**04** — Look at what doesn't work.
+
+**05** — Make it better.
+
+**06** — Repeat.
+
+---
+
+![Purple Wave](https://capsule-render.vercel.app/api?type=waving\&height=100\&color=0:071A16,50:123C5A,100:24104F\&section=header)
+
+# `06 — PROJECT SPACE`
+
+### HEALTHBOOST
+
+**Digital health · Personalization · Technology**
+
+A concept focused on making health care simpler and more personal.
+
+`ACTIVE`
+
+### MORE IDEAS
+
+I'm still building.
+
+New projects will appear here as they become real.
+
+`COMING SOON`
+
+---
+
+# `07 — GITHUB`
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancscV55\&show_icons=true\&hide_border=true\&bg_color=080512\&title_color=8B5CF6\&icon_color=00FF88\&text_color=FFFFFF\&count_private=true\&include_all_commits=true\&rank_icon=github)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrancscV55\&hide_border=true\&background=080512\&ring=8B5CF6\&fire=00FF88\&currStreakLabel=8B5CF6\&sideLabels=FFFFFF\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&dates=8B949E)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancscV55\&layout=compact\&hide_border=true\&bg_color=080512\&title_color=8B5CF6\&text_color=FFFFFF)
+
+---
+
+# `08 — LET'S CONNECT`
+
+[![GitHub](https://img.shields.io/badge/GITHUB-080512?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/FrancscV55) [![Instagram](https://img.shields.io/badge/INSTAGRAM-080512?style=for-the-badge\&logo=instagram\&logoColor=8B5CF6)](https://instagram.com/TU_INSTAGRAM) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-080512?style=for-the-badge\&logo=linkedin\&logoColor=2563EB)](https://linkedin.com/in/TU_LINKEDIN) [![Email](https://img.shields.io/badge/EMAIL-080512?style=for-the-badge\&logo=gmail\&logoColor=00FF88)](mailto:TU_EMAIL)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&height=150\&color=0:24104F,45:123C5A,75:071A16,100:080512\&section=footer\&animation=twinkling)
+
+### `BUILD SOMETHING DIFFERENT.`
+
+**Keep learning. Keep creating. Keep improving.**

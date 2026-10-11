@@ -1,22 +1,12 @@
-<div align="center">
+<!-- ===================================================== --><!-- FRANCISCO VÁSQUEZ | GITHUB PROFILE README --><!-- Palette: Navy / Electric Blue / Ice Blue / White --><!-- ===================================================== --><div align="center"><a href="https://github.com/FrancscV55">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,45:173B76,100:38BDF8&text=FRANCISCO%20V%C3%81SQUEZ&fontSize=43&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=TECHNOLOGY%20%C2%B7%20CREATIVITY%20%C2%B7%20GROWTH&descSize=14&descAlignY=58&descColor=DBEAFE" width="100%" alt="Francisco Vásquez animated blue header"/>
+</a><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=800&color=7DD3FC&center=true&vCenter=true&width=700&height=45&lines=Always+learning+something+new.;Turning+ideas+into+projects.;Exploring+the+space+between+logic+and+creativity." alt="Animated introduction"/><br><img src="https://img.shields.io/badge/CREATIVE%20MIND-0F2444?style=for-the-badge&labelColor=0B1220" alt="Creative mind"/>
+<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-1D4ED8?style=for-the-badge&labelColor=0B1220" alt="Continuous learning"/>
+<img src="https://img.shields.io/badge/BUILDING%20IDEAS-38BDF8?style=for-the-badge&labelColor=0B1220" alt="Building ideas"/></div>---
 
-<br>
+01 / CREATIVE MIND
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=FRANCISCO%20V%C3%81SQUEZ&fontSize=52&fontColor=9B6DFF&fontAlignY=45&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=9B6DFF&center=true&vCenter=true&width=850&height=40&lines=Always+learning+something+new;Turning+ideas+into+projects;Creating+something+better+every+day" alt="Creative mindset"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9B6DFF" width="72%"/>
-
-</div>
-
-<br>
-
-## CREATIVE MIND
-
-I am interested in the point where **technology, creativity and ideas** come together.
+I am interested in the point where technology, creativity and ideas come together.
 
 For me, programming is not only about writing code and making something function. It is about understanding an idea, exploring different possibilities and finding a way to transform that idea into something real.
 
@@ -28,346 +18,214 @@ Then the process begins.
 
 I explore it, question it, change it, improve it and try to understand what could make it better.
 
-That process is one of the things I enjoy most about creating.
+I believe that learning programming is not simply learning a language. It is learning how to think, solve problems, experiment and build.
 
-I believe that learning programming is not simply learning a language.
-
-It is learning how to **think, solve problems, experiment and build**.
-
-I also believe that creativity has an important place in technology.
-
-A project can be functional and still have personality.
-
-It can be simple and still be memorable.
-
-It can solve a problem without becoming unnecessarily complicated.
+A project can be functional and still have personality. It can be simple and still be memorable. It can solve a problem without becoming unnecessarily complicated.
 
 That balance between logic and creativity is what I want to keep developing.
 
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:38BDF8,100:2563EB" width="62%" alt="Blue gradient divider"/><br><br>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=7DD3FC&center=true&vCenter=true&width=650&height=35&lines=THINK+%E2%86%92+EXPLORE+%E2%86%92+CREATE+%E2%86%92+IMPROVE" alt="Creative process animation"/></div>---
 
-**THINK**　→　**EXPLORE**　→　**CREATE**　→　**IMPROVE**
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9B6DFF" width="45%"/>
-
-</div>
-
----
-
-## WHAT I CREATE
+02 / WHAT I CREATE
 
 I enjoy creating digital ideas that combine technology, creativity and visual communication.
 
 I like projects that have a purpose and an identity.
 
-When I start working on an idea, I don't only think about whether it can work.
+When I start working on an idea, I think about more than whether it works. I also consider how it looks, how someone will understand it and whether the final result communicates what I intended.
 
-I also think about how it will look, how it will feel, how someone will understand it and whether the final result actually communicates what I wanted to communicate.
-
-I enjoy exploring different possibilities before deciding what direction makes the most sense.
-
-Sometimes that means changing the original idea.
-
-Sometimes it means simplifying it.
-
-Sometimes it means starting again.
+Sometimes that means changing the original idea. Sometimes it means simplifying it. Sometimes it means starting again.
 
 I see that as part of the creative process.
 
-The first version does not have to be perfect.
+The first version does not have to be perfect. It needs to be a starting point.
 
-It only needs to exist so that it can become better.
+From there, it can be tested, questioned and improved.
 
-<br>
+<div align="center"><table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/01-EXPLORE-173B76?style=for-the-badge" alt="Explore"/>
+      <br><br>
+      <strong>Discover</strong>
+      <br>
+      <sub>Explore possibilities and new approaches.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/02-CREATE-2563EB?style=for-the-badge" alt="Create"/>
+      <br><br>
+      <strong>Develop</strong>
+      <br>
+      <sub>Turn ideas into practical projects.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/03-IMPROVE-38BDF8?style=for-the-badge" alt="Improve"/>
+      <br><br>
+      <strong>Refine</strong>
+      <br>
+      <sub>Learn from testing and iteration.</sub>
+    </td>
+  </tr>
+</table></div>---
 
-<div align="center">
+03 / TECHNOLOGIES & TOOLS
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1900&pause=600&color=9B6DFF&center=true&vCenter=true&width=850&height=35&lines=Ideas+become+better+through+iteration.;Create+%E2%80%A2+Experiment+%E2%80%A2+Improve" alt="Creative process"/>
-
-</div>
-
----
-
-<div align="center">
-
-## MY CREATIVE TOOLKIT
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,github,vscode,canva&theme=dark&perline=7" alt="Python HTML CSS JavaScript GitHub VS Code Canva"/>
-
-<br>
-
-**Python**　 **HTML**　 **CSS**　 **JavaScript**　 **GitHub**　 **VS Code**　 **Canva**
-
-</div>
-
-<br>
-
-### Python
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2300&pause=700&color=7DD3FC&center=true&vCenter=true&width=600&height=30&lines=My+creative+and+technical+toolkit;Learning+through+practice+and+projects" alt="Technology section animation"/><br><img src="https://skillicons.dev/icons?i=python,html,css,javascript,github,vscode,canva&theme=dark&perline=7" alt="Python, HTML, CSS, JavaScript, GitHub, VS Code and Canva"/></div>Python
 
 I use Python to develop my programming logic, understand how code works and practice solving problems through programming.
 
-### HTML
+HTML
 
 HTML gives structure to the digital experiences I create and helps me understand how information is organized on the web.
 
-### CSS
+CSS
 
 CSS allows me to transform structure into visual presentation and experiment with layout, organization and appearance.
 
-### JavaScript
+JavaScript
 
 JavaScript allows me to explore interaction and understand how digital experiences can respond dynamically.
 
-### GitHub
+GitHub
 
 GitHub gives me a place to organize my work, share projects and keep track of what I am building.
 
-### VS Code
+Visual Studio Code
 
 VS Code is one of the environments I use to write, test and improve my code.
 
-### Canva
+Canva
 
 Canva is part of my creative workflow and allows me to work on visual communication, presentations and digital concepts.
 
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:38BDF8,100:2563EB" width="48%" alt="Blue divider"/></div>---
 
-<br>
+04 / FEATURED PROJECT
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9B6DFF" width="65%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# HEALTHBOOST
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2300&pause=800&color=9B6DFF&center=true&vCenter=true&width=850&height=45&lines=Taking+care+of+your+health+shouldn't+be+difficult." alt="HealthBoost"/>
-
-</div>
-
-<br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0B1220,50:173B76,100:2563EB&text=HEALTHBOOST&fontSize=30&fontColor=FFFFFF&fontAlign=50&animation=fadeIn" width="100%" alt="HealthBoost project banner"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2400&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&height=35&lines=Level+up+your+health.;Simple.+Personal.+Sustainable." alt="HealthBoost animated tagline"/></div>The idea
 
 HealthBoost was born from one simple belief:
 
-> **Taking care of your health shouldn't be difficult.**
+«Taking care of your health shouldn't be difficult.»
 
-The concept focuses on creating an experience that makes taking care of your health **simpler, more personal and more sustainable**.
+HealthBoost is a wellness platform concept focused on making healthy living simpler, more personal and more sustainable.
 
-The idea is based on personalization.
+The concept brings together different aspects of well-being through an experience designed around individual needs, goals and lifestyles.
 
-The user answers questions about their needs, goals and lifestyle, and the experience can provide recommendations related to workouts, nutrition, lifestyle and personal objectives.
+Rather than offering a generic approach, the idea is to help users explore practical recommendations related to nutrition, physical activity, mental well-being and personal goals.
 
-Instead of creating another generic health application, the concept focuses on making the experience feel more relevant to the person using it.
+The vision
 
-HealthBoost brings together different aspects of well-being:
+<div align="center"><table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/01-PHYSICAL%20WELLNESS-173B76?style=flat-square" alt="Physical wellness"/>
+      <br>
+      <sub>Movement, activity and healthier habits.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/02-NUTRITION-1D4ED8?style=flat-square" alt="Nutrition"/>
+      <br>
+      <sub>Practical food guidance and better choices.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/03-MENTAL%20WELLBEING-2563EB?style=flat-square" alt="Mental well-being"/>
+      <br>
+      <sub>Resources that support emotional well-being.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/04-PERSONAL%20GOALS-38BDF8?style=flat-square" alt="Personal goals"/>
+      <br>
+      <sub>Personal objectives and sustainable routines.</sub>
+    </td>
+  </tr>
+</table></div>Technology becomes more useful when it considers the person behind the screen.
 
-**Physical health · Mental well-being · Emotional well-being · Lifestyle · Personal goals**
+The goal is not simply to provide more information. It is to make healthy living easier to understand, easier to begin and easier to maintain.
 
-Technology becomes more useful when it understands the person behind the screen.
-
-That is one of the main ideas behind HealthBoost.
-
-The goal is not simply to provide more information.
-
-The goal is to make healthy living feel easier to understand, easier to begin and easier to maintain.
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=500&color=9B6DFF&center=true&vCenter=true&width=850&height=40&lines=SIMPLE+%7C+PERSONAL+%7C+MOTIVATING+%7C+SUSTAINABLE" alt="HealthBoost concept"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9B6DFF" width="45%"/>
-
-</div>
-
----
-
-## HOW I WORK
-
-I usually start with an idea.
-
-Then I try to understand what that idea could become.
-
-I explore different possibilities before deciding on a direction.
-
-After that comes the first version.
-
-The first version is not expected to be perfect.
-
-It is simply the starting point.
-
-From there, I test.
-
-I change things.
-
-I remove things that are unnecessary.
-
-I add things that are missing.
-
-I look at the result.
-
-Then I improve it.
-
-I believe that mistakes are part of learning because they show you something you didn't understand before.
-
-Every project gives me an opportunity to discover something new.
-
-Every problem forces me to think differently.
-
-Every improvement makes the next project easier to approach.
-
-<br>
-
-<div align="center">
-
-**IDEA**
-
-↓
-
-**EXPLORATION**
-
-↓
-
-**BUILD**
-
-↓
-
-**TEST**
-
-↓
-
-**IMPROVE**
-
-</div>
+HealthBoost — Level up your health.
 
 ---
 
-## CURRENTLY
+05 / HOW I WORK
+
+I usually start with an idea. Then I try to understand what that idea could become.
+
+I explore different possibilities before deciding on a direction. After that comes the first version.
+
+From there, I test, change things, remove what is unnecessary and add what is missing.
+
+I believe that mistakes are part of learning because they reveal something I did not understand before.
+
+Every project gives me an opportunity to discover something new. Every problem encourages me to think differently.
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0B1220,50:173B76,100:2563EB&text=IDEA%20%E2%86%92%20BUILD%20%E2%86%92%20TEST%20%E2%86%92%20IMPROVE&fontSize=17&fontColor=FFFFFF&fontAlign=50" width="100%" alt="Idea to improvement workflow"/><br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1900&pause=500&color=7DD3FC&center=true&vCenter=true&width=600&height=35&lines=Experimentation+is+part+of+the+process.;Every+iteration+is+a+chance+to+improve." alt="Iteration animation"/></div>---
+
+06 / CURRENTLY LEARNING
 
 I am continuing to develop my programming knowledge while exploring the creative side of technology.
 
-I want to understand not only how individual pieces of code work, but also how those pieces can come together to create something complete.
+I want to understand not only how individual pieces of code work, but also how those pieces come together to create something complete.
 
-I am learning through practice, experimentation and projects.
+I learn through practice, experimentation and projects. There are still many technologies I want to explore, concepts I want to understand better and ideas I want to turn into something real.
 
-There are still many technologies I want to explore.
+I see that as an opportunity.
 
-There are still concepts I want to understand better.
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=500&color=7DD3FC&center=true&vCenter=true&width=550&height=40&lines=Learning.;Exploring.;Building.;Improving." alt="Learning cycle animation"/></div>---
 
-And there are still many ideas I want to turn into something real.
+07 / GITHUB ANALYTICS
 
-I don't see that as a limitation.
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FrancscV55&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0B1220&title_color=7DD3FC&icon_color=38BDF8&text_color=E2E8F0" height="175" alt="GitHub overview statistics"/><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancscV55&layout=compact&hide_border=true&langs_count=6&theme=transparent&bg_color=0B1220&title_color=7DD3FC&text_color=E2E8F0" height="150" alt="Most used languages"/><br><img src="https://streak-stats.demolab.com?user=FrancscV55&hide_border=true&background=0B1220&ring=2563EB&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="75%" alt="GitHub contribution streak"/><br><br>
 
-I see it as part of the process.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FrancscV55&bg_color=0B1220&color=CBD5E1&line=2563EB&point=7DD3FC&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/></div>---
 
-There is always something else to learn.
-
-There is always another problem to solve.
-
-There is always another idea worth exploring.
-
-<div align="center">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2100&pause=650&color=9B6DFF&center=true&vCenter=true&width=850&height=35&lines=Learning.;Exploring.;Building.;Improving." alt="Currently"/>
-
-</div>
-
----
-
-<div align="center">
-
-# GITHUB ACTIVITY
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=FrancscV55&show_icons=true&hide_border=true&bg_color=090014&title_color=9B6DFF&icon_color=9B6DFF&text_color=FFFFFF&count_private=true&include_all_commits=true" height="175"/>
-
-   
-
-<img src="https://streak-stats.demolab.com?user=FrancscV55&hide_border=true&background=090014&ring=9B6DFF&fire=9B6DFF&currStreakLabel=9B6DFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" height="175"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancscV55&layout=compact&hide_border=true&bg_color=090014&title_color=9B6DFF&text_color=FFFFFF" height="145"/>
-
-</div>
-
----
-
-## MORE THAN CODE
+08 / MORE THAN CODE
 
 Programming is one part of the way I create.
 
 I also care about visual communication, presentation and the experience surrounding an idea.
 
-A project can have excellent code and still be difficult to understand.
-
-A design can look beautiful and still fail to communicate its purpose.
+A project can have excellent code and still be difficult to understand. A design can look beautiful and still fail to communicate its purpose.
 
 I enjoy exploring the space between those two sides.
 
-**Logic gives an idea structure.**
-
-**Creativity gives it personality.**
-
-**Design gives it a voice.**
-
-Technology brings those elements together.
-
-That is the direction I want to continue exploring.
+<div align="center"><table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>LOGIC</h3>
+      <sub>Gives ideas structure.</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>CREATIVITY</h3>
+      <sub>Gives ideas personality.</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>DESIGN</h3>
+      <sub>Gives ideas a voice.</sub>
+    </td>
+  </tr>
+</table></div>Technology brings those elements together. That is the direction I want to continue exploring.
 
 ---
 
-<div align="center">
+09 / CONNECT
 
-## CONNECT
+<div align="center"><a href="https://github.com/FrancscV55">
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
+</a><!-- Replace these placeholders with your actual accounts before publishing. --><a href="https://instagram.com/TU_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-173B76?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
+</a><a href="https://linkedin.com/in/TU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+</a><a href="mailto:TU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+</a><br><br>
 
-<br>
-
-<a href="https://github.com/FrancscV55">
-<img src="https://img.shields.io/badge/GitHub-090014?style=flat&logo=github&logoColor=FFFFFF"/>
-</a>
-
- 
-
-<a href="https://instagram.com/TU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-090014?style=flat&logo=instagram&logoColor=9B6DFF"/>
-</a>
-
- 
-
-<a href="https://linkedin.com/in/TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-090014?style=flat&logo=linkedin&logoColor=9B6DFF"/>
-</a>
-
- 
-
-<a href="mailto:TU_EMAIL">
-<img src="https://img.shields.io/badge/Email-090014?style=flat&logo=gmail&logoColor=9B6DFF"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9B6DFF" width="55%"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=700&color=9B6DFF&center=true&vCenter=true&width=800&height=35&lines=Keep+learning.;Keep+creating.;Keep+building.;Keep+improving." alt="Closing message"/>
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2300&pause=650&color=7DD3FC&center=true&vCenter=true&width=600&height=35&lines=Keep+learning.;Keep+creating.;Keep+building.;Keep+improving." alt="Closing animation"/><br><img src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:38BDF8,50:173B76,100:0B1220" width="100%" alt="Animated blue footer"/><sub>Designed around curiosity, creativity and continuous growth.</sub>
 
 </div>
